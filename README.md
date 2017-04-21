@@ -1,0 +1,2 @@
+# pro_sources
+pthread
